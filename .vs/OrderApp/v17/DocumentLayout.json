@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "OrderApp\\Models\\Order.cs",
               "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\Order.cs",
               "RelativeToolTip": "OrderApp\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:27.098Z"
+              "WhenOpened": "2024-12-10T10:55:27.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,9 +49,10 @@
               "RelativeDocumentMoniker": "OrderApp\\Models\\OrderItem.cs",
               "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\OrderItem.cs",
               "RelativeToolTip": "OrderApp\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:22.355Z"
+              "WhenOpened": "2024-12-10T10:55:22.355Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +64,8 @@
               "RelativeToolTip": "OrderApp\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:11.546Z"
+              "WhenOpened": "2024-12-10T10:55:11.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +75,7 @@
               "RelativeDocumentMoniker": "OrderApp\\Program.cs",
               "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Program.cs",
               "RelativeToolTip": "OrderApp\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwCUAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwG8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T10:48:48.883Z",
               "EditorCaption": ""

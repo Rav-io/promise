@@ -38,8 +38,7 @@
               "RelativeToolTip": "OrderApp\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:27.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T10:55:27.098Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "OrderApp\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:22.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T10:55:22.355Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "OrderApp\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:11.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T10:55:11.546Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "OrderApp\\Program.cs",
               "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Program.cs",
               "RelativeToolTip": "OrderApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T10:48:48.883Z",
               "EditorCaption": ""
