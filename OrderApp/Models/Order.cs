@@ -17,7 +17,7 @@ namespace OrderApp.Models
 
         public void AddOrderItem(Product product, int quantity)
         {
-            if (product == null || quantity <= 0)
+            if (product == null || quantity <= 0 || quantity > 999)
             {
                 return;
             }
@@ -29,13 +29,13 @@ namespace OrderApp.Models
             }
             else
             {
-                OrderItems?.Add(new OrderItem(product, quantity));
+                OrderItems.Add(new OrderItem(product, quantity));
             }
         }
 
         public void RemoveOrderItem(int index)
         {
-            if (index >= 0 && index < OrderItems?.Count)
+            if (index >= 0 && index < OrderItems.Count)
             {
                 OrderItems.RemoveAt(index);
             }
@@ -50,15 +50,18 @@ namespace OrderApp.Models
                 .OrderBy(price => price)
                 .ToList();
 
+            double discount = 0;
+
             if (allProducts.Count == 2)
             {
-                total -= allProducts[0] * 0.10;
+                discount = allProducts[0] * 0.10;
+            }
+            else if (allProducts.Count == 3)
+            {
+                discount = allProducts[0] * 0.20;
             }
 
-            if (allProducts.Count == 3)
-            {
-                total -= allProducts[0] * 0.20;
-            }
+            total -= discount;
 
             if (total > 5000)
             {
