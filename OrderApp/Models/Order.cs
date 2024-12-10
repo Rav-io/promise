@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OrderApp.Models
 {
-    internal class Order
+    public class Order
     {
         public List<OrderItem> OrderItems { get; set; }
 

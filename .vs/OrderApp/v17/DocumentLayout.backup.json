@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|c:\\users\\olejn\\desktop\\promise\\orderapp\\orderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|c:\\users\\olejn\\desktop\\promise\\orderapp\\orderapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|c:\\users\\olejn\\desktop\\promise\\orderapp\\orderapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|c:\\users\\olejn\\desktop\\promise\\orderapp\\orderapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4110A510-0FA5-4261-B929-3BA9275B4DB5}|OrderApp\\OrderApp.csproj|solutionrelative:orderapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18224955-F6B1-4DFF-903E-DDE534C6B8D8}|OrderAppTest\\OrderAppTest.csproj|c:\\users\\olejn\\desktop\\promise\\orderapp\\orderapptest\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18224955-F6B1-4DFF-903E-DDE534C6B8D8}|OrderAppTest\\OrderAppTest.csproj|solutionrelative:orderapptest\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "OrderApp\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\Order.cs",
-              "RelativeToolTip": "OrderApp\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:27.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "OrderApp\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\OrderItem.cs",
-              "RelativeToolTip": "OrderApp\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:22.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "OrderApp\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Models\\Product.cs",
-              "RelativeToolTip": "OrderApp\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:55:11.546Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Program.cs",
-              "RelativeDocumentMoniker": "OrderApp\\Program.cs",
-              "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderApp\\Program.cs",
-              "RelativeToolTip": "OrderApp\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAmwCUAAAA1AAAAAAAAAA==",
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderAppTest\\OrderTests.cs",
+              "RelativeDocumentMoniker": "OrderAppTest\\OrderTests.cs",
+              "ToolTip": "C:\\Users\\olejn\\Desktop\\promise\\OrderApp\\OrderAppTest\\OrderTests.cs",
+              "RelativeToolTip": "OrderAppTest\\OrderTests.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:48:48.883Z",
+              "WhenOpened": "2024-12-10T14:44:38.385Z",
               "EditorCaption": ""
             }
           ]
